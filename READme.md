@@ -27,6 +27,8 @@ This project demonstrates interactive 3D modeling using hand gestures. The appli
 
     ```bash
     git clone https://github.com/generalghost890/render-manipulation.git
+
+    cd render-manipulation
     ```
 
 2. Install the required dependencies:
@@ -40,7 +42,7 @@ This project demonstrates interactive 3D modeling using hand gestures. The appli
 1. Run the application:
 
     ```bash
-    python main.py
+    python3 main.py
     ```
 
 2. Use hand gestures to interact with the 3D environment:
