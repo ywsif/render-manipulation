@@ -1,4 +1,4 @@
-# 3D Hand Interaction with Pygame, OpenGL, and Mediapipe
+# 3D Hand Object manipulation with Pygame, OpenGL, and Mediapipe
 
 This project demonstrates interactive 3D modeling using hand gestures. The application utilizes Pygame, OpenGL, and the Mediapipe library to track hand movements and translate them into actions within a 3D environment. Started the project as an introduction into 3d enviorments :D.
 
